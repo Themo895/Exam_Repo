@@ -1,2 +1,2 @@
 # Exam_Repo
-This is an Exam Repo for Bodyvision
+This is an Exam Repo
