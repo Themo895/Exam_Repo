@@ -1,2 +1,2 @@
 Hello, this is the b text file
-for auto build
+
